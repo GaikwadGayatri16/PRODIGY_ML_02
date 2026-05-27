@@ -81,7 +81,6 @@ Columns used:
 
 The Elbow Method is used to determine the optimal number of clusters.
 
-![Elbow Method](screenshots/elbow_method.png)
 
 ---
 
@@ -89,7 +88,6 @@ The Elbow Method is used to determine the optimal number of clusters.
 
 Final clustered customer groups visualization:
 
-![Customer Segmentation](screenshots/customer_segmentation.png)
 
 ---
 
